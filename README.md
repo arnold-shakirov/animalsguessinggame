@@ -57,10 +57,10 @@ To compile the program, use the following command:
 ```bash
 g++ -o animal_guessing_game main.cpp tree.cpp -I.
 ```
-##Running program
+## Running program
 ./my_program
 
-##Example Run
+## Example Run
 create a question for this animal so the answer for would be true for this animal
 question: Does it live in water?
 what animal? Give me two animals the first one is true and second false
@@ -73,7 +73,7 @@ yes
 Is it fish type yes or no: yes
 I won
 
-##If the program guesses incorrectly
+## If the program guesses incorrectly
 Is it fish type yes or no: no
 what kind of an animal is this?
 cat
